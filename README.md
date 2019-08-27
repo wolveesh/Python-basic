@@ -1,2 +1,2 @@
 # Python-basic
-I can basically developed a basic python code
+I can developed a basic python code
